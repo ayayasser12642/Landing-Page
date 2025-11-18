@@ -16,7 +16,7 @@ body {
   margin-bottom: 30px;
 }
 .footer {
-  background-color: #4b7bec;
+  background-color: rgb(75, 123, 236) !important;
   text-align: center;
   padding: 20px;
   margin-top: 50px;
@@ -54,3 +54,4 @@ body {
   transform: scale(1.2);
   transition: all 0.5s;
 }
+
